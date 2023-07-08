@@ -1,8 +1,8 @@
 ### Oh, hi! 👋
-Nice to meet you!<br>
+I'm <b>Raiyuu</b>, nice to meet you!<br>
 I can only recognize simple English. I'll do my best.
 
-I can write a little bit of HSP, C, JavaScript.<br>
+I can write a little bit of <b>HSP (Hot Soup Processor)</b>, C, JavaScript, and Python.<br>
 I'm currently learning how to use GitHub. <br>
 よろしくお願いしますね。
 

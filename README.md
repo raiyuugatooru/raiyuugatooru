@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oh, hi! 👋
+Nice to meet you!<br>
+I can only recognize simple English. I'll do my best.
+
+I can write a little bit of HSP, C, JavaScript.<br>
+I'm currently learning how to use GitHub. <br>
+よろしくお願いしますね。
 
 <!--
 **raiyuugatooru/raiyuugatooru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,10 @@
 ### Hello there! 👋
-I'm **Raiyuu**, pleased to meet you!
-I understand simple English, and I’ll do my best to communicate clearly.
-
-I have a bit of experience with **HSP (Hot Soup Processor)**, **C**, **JavaScript**, and **Python**.
-And, I'm still learning my way around **GitHub**.
-よろしくお願いいたしますね。
+I'm **Raiyuu**, pleased to meet you!<br>
+I understand simple English, and I’ll do my best to communicate clearly.<br>
+<br>
+I have a bit of experience with **HSP (Hot Soup Processor)**, **C**, **JavaScript**, and **Python**.<br>
+And, I'm still learning my way around **GitHub**.<br>
+よろしくお願いいたしますね。<br>
 
 <!--
 **raiyuugatooru/raiyuugatooru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
